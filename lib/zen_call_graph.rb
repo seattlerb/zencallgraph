@@ -1,5 +1,5 @@
 require 'rubygems'
-require 'eventhook'
+require 'event_hook'
 
 class ZenCallGraph < EventHook
 
